@@ -20,7 +20,7 @@ Funcionalidade: Validar cadastro/acesso de usuarios
     Cenario: Autenticar acesso da conta
      Quando o usuario realizar o login no sistema
      E buscar o Token de autenticação em dados da conta
-     E copiar e colar o token de acesso no campo de "atutenticar acesso via token"
+     E copiar e colar o token de acesso no campo de "autenticar acesso via token"
      E clicar em "autenticar"
      Então o usuário estará autenticado
 
